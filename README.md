@@ -107,7 +107,6 @@ permanent-lighting-quote-generator/
 ├── index.html
 ├── README.md
 ├── LICENSE
-├── .gitignore
 ├── assets/
 │   ├── screenshot-home.png
 │   ├── screenshot-mapping.png
