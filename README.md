@@ -100,17 +100,5 @@ Through this project, I worked through challenges related to:
 
 `https://prestige-quote-generator.netlify.app/`
 
-## Repository Structure
-
-```text
-permanent-lighting-quote-generator/
-├── index.html
-├── README.md
-├── LICENSE
-├── assets/
-│   ├── screenshot-home.png
-│   ├── screenshot-mapping.png
-│   ├── screenshot-proposal.png
-│   └── screenshot-pdf.png
-└── docs/
-    └── project-overview.md
+## Author
+Dennis Ashiagbor
